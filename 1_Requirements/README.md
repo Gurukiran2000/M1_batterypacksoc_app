@@ -33,4 +33,35 @@ An appliction that provides the information regarding terminal voltage ,battery 
  * Oppurtunities - 1]Can be used to find the exact motor rating that is required for the vehicle
                    2]Easier approach to implement battery pack designing in EVs.
 
-  * Threats -    1] Fully charged battery is assumed in SOC determination that may not be the case             everytime                                                        
+  * Threats -    1] Fully charged battery is assumed in SOC determination that may not be the case             everytime   
+
+
+
+##5W's and 1H
+* What -To determine the terminal battery voltage and thereby estimate state of charge
+
+* Why-Designing battery pack requires tjhe amount of terminal voltage required.
+
+* When-During the designing of battery pack.
+
+* Where-In industries that manufacture EV's.
+
+* Who-Engineers involved in application of battery  managemenet systems in electric vehicles.
+
+* How-Taking nominal parameters into consideration and coding according to the flowchart that is proposed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
